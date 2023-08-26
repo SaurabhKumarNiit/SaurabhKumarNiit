@@ -1,6 +1,5 @@
 - 👋 Hi, I’m SaurabhKumar
 - 👀 I’m interested in ... Softtware Developing
-- 🌱 I’m currently learning ... Spring Framework
 - 💞️ I’m looking to collaborate on ...Developing Environment
 - 📫 How to reach me ...
 
